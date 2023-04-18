@@ -1,0 +1,15 @@
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\bin\Debug\net6.0\EventApp.Services.deps.json
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\bin\Debug\net6.0\EventApp.Services.dll
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\bin\Debug\net6.0\EventApp.Services.pdb
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\bin\Debug\net6.0\EventsApp.Common.dll
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\bin\Debug\net6.0\EventsApp.Common.pdb
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.csproj.AssemblyReference.cache
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.AssemblyInfoInputs.cache
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.AssemblyInfo.cs
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.csproj.CoreCompileInputs.cache
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.csproj.CopyComplete
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.dll
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\refint\EventApp.Services.dll
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\EventApp.Services.pdb
+D:\ITESP\10 semestre\Scio\.Net\eventsapp\EventApp.Services\obj\Debug\net6.0\ref\EventApp.Services.dll

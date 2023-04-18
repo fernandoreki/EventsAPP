@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EventApp.Services/1.0.0": {
+        "dependencies": {
+          "EventsApp.Common": "1.0.0"
+        },
+        "runtime": {
+          "EventApp.Services.dll": {}
+        }
+      },
+      "EventsApp.Common/1.0.0": {
+        "runtime": {
+          "EventsApp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventsApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
